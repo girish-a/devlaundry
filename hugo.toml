@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Dev Laundry'
+theme = 'clarity'
+summaryLength = 25
