@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://girish-a.github.io/devlaundry'
 languageCode = 'en-us'
 title = 'Dev Laundry'
 theme = 'clarity'
